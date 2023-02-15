@@ -55,6 +55,7 @@ body * {
 }
 
 #switch {
+  cursor: pointer;
   position: relative;
   width: 64px;
 
